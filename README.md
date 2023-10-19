@@ -1,4 +1,4 @@
-# simple_greenhose_light
+# simple_aquarium_light
 
 Hello everyone. This is my first project on GitHub, so please don't judge too harshly.
 
